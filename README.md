@@ -27,6 +27,8 @@
 <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://git-scm.com/downloads" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 
 </p>
 
@@ -39,6 +41,8 @@
 <a href="https://visualstudio.microsoft.com/es/" rel="nofollow"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://unity.com/es" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.roblox.com/create" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.arduino.cc/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/250px-ArduinoLogo_%C2%AE.svg.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://desktop.github.com/" rel="nofollow"> <img src="https://desktop.github.com/images/desktop-icon.svg" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
 

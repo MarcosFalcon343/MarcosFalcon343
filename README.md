@@ -56,8 +56,4 @@
 </a> 
 </div>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFalcon343&show_icons=true&locale=en&layout=compact"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MarcosFalcon343&show_icons=true&locale=en"/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosFalcon343&"/>
-</p>
+

@@ -32,7 +32,11 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://visualstudio.microsoft.com/es/" rel="nofollow"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://unity.com/es" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.roblox.com/create" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/ROBLOX_Studio_icon.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
+
+
 <h3 align="left">Software</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFalcon343&show_icons=true&locale=en&layout=compact"  /></p>

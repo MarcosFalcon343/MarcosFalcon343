@@ -21,7 +21,7 @@
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.python.org" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 
 </p>
 

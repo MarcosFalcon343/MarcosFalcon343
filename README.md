@@ -6,8 +6,9 @@
   - **Microsoft Certified: Azure Security Engineer Associate**
   - **Microsoft Certified: Security, Compliance, and Identity Fundamentals**
   - **Gestión de Proyectos de Google**
--Ask me about 💬: **Electronics,Arduino, Azure HTML/CSS/JS**
--How to reach me 📫 : marcosfalcon2003@hotmail.com
+- Ask me about 💬: **Electronics,Arduino, Azure HTML/CSS/JS**
+- How to reach me 📫 : marcosfalcon2003@hotmail.com
+
 
 
 

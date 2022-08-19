@@ -11,7 +11,10 @@
 - How to reach me 📫 : marcosfalcon2003@hotmail.com
 
 
-
+<h3 align="left">Certification:</h3>
+<p align="left">
+- <a href="https://docs.microsoft.com/es-es/certifications/azure-fundamentals/"> <img src="https://docs.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="html5" width="40" height="40"/> </a> Microsoft Certified: Azure Fundamentals
+</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">

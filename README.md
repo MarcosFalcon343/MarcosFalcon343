@@ -31,6 +31,7 @@
 <p align="left">
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://visualstudio.microsoft.com/es/" rel="nofollow"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 <h3 align="left">Software</h3>
 

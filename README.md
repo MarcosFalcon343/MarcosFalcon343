@@ -47,7 +47,7 @@
 
 
 <h3 align="left">Software</h3>
-<a href="https://www.microsoft.com/es-mx/microsoft-365/microsoft-office" rel="nofollow"> <img src="https://anthoncode.com/wp-content/uploads/2020/02/logo-office-2020.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.microsoft.com/es-mx/microsoft-365/microsoft-office" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
 <p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFalcon343&show_icons=true&locale=en&layout=compact"  /></p>

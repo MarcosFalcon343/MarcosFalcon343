@@ -48,6 +48,9 @@
 
 <h3 align="left">Software</h3>
 <a href="https://www.microsoft.com/es-mx/microsoft-365/microsoft-office" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.solidworks.com/es" rel="nofollow"> <img src="https://www.icesi.edu.co/servicios/wp-content/uploads/2020/08/SolidWorks-Icono.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.solidworks.com/es" rel="nofollow"> <img src="https://www.icesi.edu.co/servicios/wp-content/uploads/2020/08/SolidWorks-Icono.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.autodesk.es/products/autocad/overview?term=1-YEAR&tab=subscription" rel="nofollow"> <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/autocad-2017-badge-75x75.png" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
 <p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFalcon343&show_icons=true&locale=en&layout=compact"  /></p>

@@ -21,6 +21,7 @@
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 
 </p>
 
@@ -29,8 +30,8 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-
+<a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
-
+<h3 align="left">Software</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFalcon343&show_icons=true&locale=en&layout=compact"  /></p>

@@ -12,11 +12,11 @@
 
 
 <h3 align="left">Certification:</h3>
-<ol align="left">
+<ul align="left">
   <li>
     <a href="https://docs.microsoft.com/es-es/certifications/azure-fundamentals/"> <img src="https://docs.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="html5" width="40" height="40"/> </a> Microsoft Certified: Azure Fundamentals
   </li>
-</ol>
+</ul>
 
 <h3 align="left">Languages:</h3>
 <p align="left">

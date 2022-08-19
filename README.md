@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I´m Marcos Falcon</h1>
 <h3 align="center">I'm a passionate dev and electronics technician.</h3>
 
-I’m currently learning 📘:
-- **videogames development**
-- **Microsoft Certified: Azure Security Engineer Associate**
-- **Microsoft Certified: Security, Compliance, and Identity Fundamentals**
-- **Gestión de Proyectos de Google**
+- I’m currently learning 📘:
+  - **videogames development**
+  - **Microsoft Certified: Azure Security Engineer Associate**
+  - **Microsoft Certified: Security, Compliance, and Identity Fundamentals**
+  - **Gestión de Proyectos de Google**
 
-Ask me about 💬: **Electronics,Arduino, Azure HTML/CSS/JS**
-📫 How to reach me marcosfalcon2003@hotmail.com
+-Ask me about 💬: **Electronics,Arduino, Azure HTML/CSS/JS**
+-How to reach me 📫 : marcosfalcon2003@hotmail.com
 
 
 

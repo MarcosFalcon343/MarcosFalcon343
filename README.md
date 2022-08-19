@@ -47,5 +47,7 @@
 
 
 <h3 align="left">Software</h3>
+<a href="https://www.microsoft.com/es-mx/microsoft-365/microsoft-office" rel="nofollow"> <img src="https://filestore.community.support.microsoft.com/api/images/d1139c18-1f81-4875-a166-df658804d208?upload=true" alt="VSC" width="40" height="40" style="max-width: 100%;"> </a>
+<p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFalcon343&show_icons=true&locale=en&layout=compact"  /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFalcon343&show_icons=true&locale=en&layout=compact"  /></p>

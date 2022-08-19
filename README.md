@@ -51,6 +51,7 @@
 <a href="https://www.solidworks.com/es" rel="nofollow"> <img src="https://www.icesi.edu.co/servicios/wp-content/uploads/2020/08/SolidWorks-Icono.png" alt="VSC" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.autodesk.es/products/autocad/overview?term=1-YEAR&tab=subscription" rel="nofollow"> <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/autocad-2017-badge-75x75.png" alt="VSC" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.labcenter.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="VSC" width="40" height="40" style="max-width: 100%;"></a>
+<br>
 
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language">

@@ -47,10 +47,14 @@
 
 
 <h3 align="left">Software</h3>
-<a href="https://www.microsoft.com/es-mx/microsoft-365/microsoft-office" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="VSC" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.solidworks.com/es" rel="nofollow"> <img src="https://www.icesi.edu.co/servicios/wp-content/uploads/2020/08/SolidWorks-Icono.png" alt="VSC" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.autodesk.es/products/autocad/overview?term=1-YEAR&tab=subscription" rel="nofollow"> <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-compare/2017/autocad-2017-badge-75x75.png" alt="VSC" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.labcenter.com/" rel="nofollow"> <img src="https://jlykos.github.io//assets/img/posts/logo.png" alt="VSC" width="40" height="40" style="max-width: 100%;"></a>
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language">
+<img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=MarcosFalcon343&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top langs" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=MarcosFalcon343&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" />
+</a> 
+</div>
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosFalcon343&show_icons=true&locale=en&layout=compact"/>

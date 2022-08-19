@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I´m Marcos Falcon</h1>
 <h3 align="center">I'm a passionate dev and electronics technician.</h3>
 
-I’m currently learning 
+I’m currently learning:
 -**video games development**
 -**Microsoft Certified: Azure Security Engineer Associate**
 <h3 align="left">Connect with me:</h3>

@@ -4,9 +4,12 @@
 
 - I’m currently learning 📘:
   - **videogames development**
-  - **Microsoft Certified: Azure Security Engineer Associate**
-  - **Microsoft Certified: Security, Compliance, and Identity Fundamentals**
+  - **Microsoft Certified: Azure Security Engineer Associate(AZ-500)**
+  - **Microsoft Certified: Security, Compliance, and Identity Fundamentals(SC-900)**
   - **Gestión de Proyectos de Google**
+  - **AWS Certified: Cloud Practitioner**
+  - **Microsoft Certified: Power Platform App Maker Associate(PL-100)**
+  - **Microsoft Certified: Azure Data Scientist Associate(DP-100)**
 - Ask me about 💬: **Electronics,Arduino, Azure, HTML/CSS/JS**
 - How to reach me 📫 : marcosfalcon2003@hotmail.com
 

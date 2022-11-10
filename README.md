@@ -9,6 +9,7 @@
   - **Gestión de Proyectos de Google**
   - **AWS Certified: Cloud Practitioner**
   - **Microsoft Certified: Power Platform App Maker Associate(PL-100)**
+  - **Microsoft 365 Certified: Teams Administrator Associate(MS-700)**
 - Ask me about 💬: **Electronics,Arduino, Azure, HTML/CSS/JS**
 - How to reach me 📫 : marcosfalcon2003@hotmail.com
 

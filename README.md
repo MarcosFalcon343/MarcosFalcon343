@@ -3,7 +3,6 @@
 <h3 align="center">I'm a passionate dev and electronics technician.</h3>
 
 - I’m currently learning 📘:
-  - **videogames development**
   - **Microsoft Certified: Azure Security Engineer Associate(AZ-500)**
   - **Microsoft Certified: Security, Compliance, and Identity Fundamentals(SC-900)**
   - **Microsoft Certified: Power Platform App Maker Associate(PL-100)**

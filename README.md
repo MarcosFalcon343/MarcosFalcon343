@@ -4,7 +4,6 @@
 
 - I’m currently learning 📘:
   - **Microsoft Certified: Azure Security Engineer Associate(AZ-500)**
-  - **Microsoft Certified: Security, Compliance, and Identity Fundamentals(SC-900)**
   - **Microsoft Certified: Power Platform App Maker Associate(PL-100)**
   - **Microsoft 365 Certified: Teams Administrator Associate(MS-700)**
   - **Gestión de Proyectos de Google**
@@ -16,6 +15,9 @@
 <h3 align="left">Certification:</h3>
 <ul align="left">
   <li>
+    <a href="https://learn.microsoft.com/es-es/certifications/security-compliance-and-identity-fundamentals/"> <img src="https://docs.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="html5" width="40" height="40"/></a> Microsoft Certified: Security, Compliance, and Identity Fundamentals
+  </li>
+    <li>
     <a href="https://docs.microsoft.com/es-es/certifications/azure-fundamentals/"> <img src="https://docs.microsoft.com/es-es/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="html5" width="40" height="40"/></a> Microsoft Certified: Azure Fundamentals
   </li>
 </ul>

@@ -4,8 +4,6 @@
 
 - I’m currently learning 📘:
   - **Microsoft Certified: Azure Security Engineer Associate(AZ-500)**
-  - **Microsoft Certified: Power Platform App Maker Associate(PL-100)**
-  - **Microsoft 365 Certified: Teams Administrator Associate(MS-700)**
   - **Gestión de Proyectos de Google**
   - **AWS Certified: Cloud Practitioner**
 - Ask me about 💬: **Electronics,Arduino, Azure, HTML/CSS/JS**

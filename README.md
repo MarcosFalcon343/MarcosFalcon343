@@ -3,9 +3,7 @@
 <h3 align="center">I'm a passionate dev and electronics technician.</h3>
 
 - I’m currently learning 📘:
-  - **Microsoft Certified: Azure Security Engineer Associate(AZ-500)**
-  - **Gestión de Proyectos de Google**
-  - **AWS Certified: Cloud Practitioner**
+  - **AWS Cloud**
 - Ask me about 💬: **Electronics,Arduino, Azure, HTML/CSS/JS**
 - How to reach me 📫 : marcosfalcon2003@hotmail.com
 

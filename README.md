@@ -5,8 +5,10 @@
 - I’m currently learning 📘:
   - **AWS Cloud**
   - **Laravel**
-  - **JavaFX**
+  - **Java**
   - **Flutter**
+  - **Angular**
+  - **Azure**
 - Ask me about 💬: **Electronics,Arduino, Azure, HTML/CSS/JS**
 - How to reach me 📫 : marcosfalcon2003@hotmail.com
 
